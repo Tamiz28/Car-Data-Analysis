@@ -1,0 +1,7 @@
+# Car Data Analysis
+## Overview:
+These data include information from vehicle performance, Transmission, sales records, maintenance logs, customer preferences, and more. Car data analysis plays a crucial role in helping manufacturers, dealerships, and consumers make informed decisions by extracting meaningful insights from this data.
+## About dataset:
+Raw CSV file is used.
+## Tech stack used:
+Power BI and DAX_function is used.
